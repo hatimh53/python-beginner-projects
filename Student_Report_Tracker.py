@@ -1,3 +1,20 @@
+"""
+Student Report Card System
+
+Features:
+- Add Student
+- View All Students
+- View Individual Report
+- Save Reports to File
+
+Skills Used:
+- Dictionaries
+- Lists
+- Loops
+- File Handling
+- Exception Handling
+"""
+
 std_data ={}
 
 while True:
