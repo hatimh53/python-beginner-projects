@@ -74,4 +74,10 @@ A student report card management system.
 - Exception Handling
 - Problem Solving
 
-⭐ Thank you for visiting my repository!
+---
+
+⭐ Support
+If you found these projects useful or interesting:
+
+Star this repository ⭐
+Fork the repository 🍴
