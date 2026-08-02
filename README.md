@@ -76,8 +76,7 @@ A student report card management system.
 
 ---
 
-⭐ Support
+🎇 Support
 If you found these projects useful or interesting:
 
 Star this repository ⭐
-Fork the repository 🍴
